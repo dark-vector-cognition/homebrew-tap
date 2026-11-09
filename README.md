@@ -4,6 +4,8 @@ HELM Light is a desktop control center for local agents and services. The app re
 
 ## Install HELM Light
 
+If Applications already contains a manually installed `HELM.app`, quit it and move that copy out of Applications before installing.
+
 ```sh
 brew tap dark-vector-cognition/tap
 brew install --cask dark-vector-cognition/tap/helm-light
