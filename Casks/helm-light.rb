@@ -1,6 +1,6 @@
 cask "helm-light" do
-  version "6.1.0"
-  sha256 "d1f6ff2938d7927c5d0094bf106080812c5a85d6126af5ce319f8b9132162f39"
+  version "6.2.0"
+  sha256 "41437b2fe793be1f9ac6848305ef75b8269ba1f130c769f1d815092d031f43fa"
 
   url "https://github.com/dark-vector-cognition/helm/releases/download/v#{version}/helm-#{version}-arm64.dmg"
   name "HELM Light"
